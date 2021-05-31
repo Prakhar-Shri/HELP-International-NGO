@@ -9,4 +9,4 @@ The biggest question that the organization faces is **which countries are actual
 **Project Goal:**
 With the help of the data, using important socio-economic and health factors, finding out the most important countries in need of aid and list them for the NGO to take further action.
 
-We are going to majorly use **K-Means clustering** algorithm to get our answers!
+We are going to use **K-Means clustering and Hierarchical** algorithms to get our answers!
